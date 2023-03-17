@@ -1,0 +1,17 @@
+{
+  "name": "applab-iti-project",
+  "version": "1.0.0",
+  "description": "AppLab It's a fully responsive 4 pages webiste [Landing, Register, Login, Thanks] using pure css and html5",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "responsive",
+    "website",
+    "html5",
+    "css3"
+  ],
+  "author": "abdallahmmu",
+  "license": "ISC"
+}
